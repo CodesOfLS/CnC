@@ -1,6 +1,6 @@
 ### CnC
 
-# <span style="color:green;">Tudo é código aprender e melhorar habilidades.
+# <span style="color:green">Tudo é código aprender e melhorar habilidades.
 # Everything is code learn and improve skills.
 # Tout est code apprendre et améliorer les compétences.
 # Alles ist Code lernen und Fähigkeiten verbessern.
