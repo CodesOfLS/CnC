@@ -1,0 +1,6 @@
+print('-' * 20)
+print('Bem-vind(o/a)!'.center(20))
+print('-' * 20)
+nome = str(input('Qual é o seu nome? '))
+print(f'{nome}, é um nome bonito.')
+print('-' * 20)
